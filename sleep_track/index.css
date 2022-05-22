@@ -1,0 +1,15 @@
+.container {
+    padding: 3rem 1rem;
+}
+.sleep-entry-btn {
+    border: none;
+    border-radius: 50px;
+    font-size: 1.5rem;
+    font-weight: 500;
+    width: 200px;
+    padding: 5px;
+}
+.form-control {
+    font-size: 20px;
+    border-radius: 5px;
+}
